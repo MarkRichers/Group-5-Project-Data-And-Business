@@ -1,0 +1,11 @@
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\bin\Debug\application1Database.exe.config
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\bin\Debug\application1Database.exe
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\bin\Debug\application1Database.pdb
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\obj\Debug\application1Database.csprojAssemblyReference.cache
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\obj\Debug\application1Database.Form1.resources
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\obj\Debug\application1Database.Properties.Resources.resources
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\obj\Debug\application1Database.csproj.GenerateResource.cache
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\obj\Debug\application1Database.exe
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\obj\Debug\application1Database.pdb
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\bin\Debug\123.accdb
+D:\Studying File\DATA FILES\UNIVERSITY\University\SEMSTER1\Mục Lung tung beng\application1Database\bin\Debug\livingDatabase1.accdb
